@@ -1,5 +1,8 @@
 # galaxyline.nvim
 
+This is a fork with a fix for the diagnostics warning. The patch is 
+not mine and can be found here: [patch](https://patch-diff.githubusercontent.com/raw/glepnir/galaxyline.nvim/pull/228.patch)
+
 galaxyline is a light-weight and **Super Fast** statusline plugin. Galaxyline
 componentizes Vim's statusline by having a provider for each text area.
 
